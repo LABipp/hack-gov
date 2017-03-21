@@ -26,4 +26,6 @@
 * [dialoga brasil](http://dialoga.gov.br/)
 
     uma iniciativa do governo federal para melhoria/propostas de políticas públicas pela sociedade civil
+* [hackthon MT](http://www.govhack.com.br/)
+
 * 
