@@ -1,0 +1,3 @@
+Vivemos num mundo cada vez mais digital, onde a tecnologia se faz presente, quase que por completo, em nosso cotidiano. Mas o Poder Público ainda não aproveita inteiramente as possibilidades dessa revolução: Existe uma dificuldade em comunicação entre os gestores públicos e os desenvolvedores de tecnologia; Há um notável _gap_ de conhecimento técnico de ambas as partes; E as legislações criam burocracias que acabam por dificultar e prolongar implementações de soluções digitais.
+
+Pensando em como solucionar esses problemas, O LAB FGV deu início ao HACK-GOV. O objetivo é ir além dos hackatons e criar um hub de desenvolvedores para o setor público
