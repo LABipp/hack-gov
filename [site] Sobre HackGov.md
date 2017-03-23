@@ -12,15 +12,21 @@ Vivemos num mundo cada vez mais digital, onde a tecnologia se faz presente em no
 
 ## Por que é um problema?
 
-- Comunicação
+- Prejudica a comunicação
 
-A comunicação se dá, principalmente através de aplicativos e de redes sociais. Se o Governo não sabe se comuncicar de forma digital, o setor público se distância da sociedade e temos um problema sistêmico.
+A principal forma de interação entre as pessos é por meio dos aplicativos e das redes sociais. Se o Governo não sabe se comuncicar de forma digital, o setor público se distância da sociedade e temos um problema sistêmico.
 
-- Ineficiência
+- Torna os serviços públicos ineficientes
 
 Para que o setor público possa oferecer serviços eficientes e escaláveis, é essencial que haja um canal claro e ágil com a sociedade. Conhecer as necessidades e as demandas da população, direcionar os recursos escassos e ter o _feedback_ sobre os serviços que estão sendo oferecidos são pontos extremamente importantes e que dependem intimamente da forma como a comunicação entre setor público e sociedade é estabelecido.
 
-- Informação e escalabilidade
+--------------------------------------
+
+- Dificulta escalabilidade de soluções
+
+Os serviços projetados com o auxílio da tecnologia são mais replicáveis, pois, além da possibilidade de soluções serem compartilhadas em rede,  
+quando se está em rede, a divulgação de soluções se torna mais ágil e 
+A falta de soluções digitais escaláveis, baratas e replicaveis acarretam numa série de trabalhos repetidos que acabam se tornando ineficientes.
 
 As demandas da sociedade variam dependendo do local. Entretanto, existem inúmeros problemas comuns entre cidades distantes, cuja comunicação é precária. Dessa forma, os setores públicos desses locais criam soluções, sem terem o conhecimento das soluções aplicadas nos demais locais onde tais problemas também ocorrem (ou ocorriam). Por outro lado, quando soluções são conhecidas, elas podem não ser factiveis para determinados locais. Dessa forma, fica claro a dificuldade de comunicação e a falta de escalabilidade que soluções tradicionais provocam. A falta de soluções digitais escaláveis, baratas e replicaveis acarretam numa série de trabalhos repetidos que acabam se tornando ineficientes.
 
